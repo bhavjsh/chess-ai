@@ -7,7 +7,7 @@ A neural network-powered chess engine featuring a graphical interface built with
 ### Windows
 ```bash
 # Clone the repository
-git clone [https://github.com/bhavjsh/chess-ai.git](https://github.com/YOUR_USERNAME/chess-ai.git)
+git clone [https://github.com/bhavjsh/chess-ai.git]
 cd chess-ai
 
 # Create and activate virtual environment
